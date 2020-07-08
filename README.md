@@ -8,6 +8,11 @@
   
 *If you'd like to talk to me further, please feel free to send me emails **ruin.you.me@gmail.com***
 
+## Table of Content
+* [About me](#about-me)
+* [What I hope to learn](#what-i-hope-to-learn)
+* [Portfolio](#portfolio)
+
 ## About me
 Hi everyone! <br>
 -> I'm **Ruwen (Ruin)**. <br>
