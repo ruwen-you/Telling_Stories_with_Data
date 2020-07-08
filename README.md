@@ -9,4 +9,4 @@
 *If you'd like to talk to me further, please feel free to send me emails **ruin.you.me@gmail.com***
 
 ### Other Pages
-* 
+* [Link to other page](/page2.md)
