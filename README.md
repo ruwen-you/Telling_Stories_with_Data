@@ -33,4 +33,9 @@ Learning data is complex and hard to display. That's why I came to the course. I
   * Reading
   * Assignment
   
+### WEEK 2
+  * In-class notes
+  * Reading
+  * [Assignment - Visualizing government debt](Assignment - Visualizing government debt.md)
+  
 ### Project
