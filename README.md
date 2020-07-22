@@ -41,7 +41,7 @@ Learning data is complex and hard to display. That's why I came to the course. I
 ### WEEK 3
   * In-class notes
   * Reading
-    * Two Questions -> Four Types
+    * [Two Questions -> Four Types](/week3-reading1.md)
   * Assignment
   
 ### Project
