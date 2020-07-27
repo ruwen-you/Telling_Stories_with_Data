@@ -26,6 +26,12 @@ I like their use of the colors in this table. They use colors in two places. Fir
 ![Wireframing](https://github.com/ruwen-you/Telling_Stories_with_Data/blob/master/Redesign%201.png)
 ![Wireframing - Hover](https://github.com/ruwen-you/Telling_Stories_with_Data/blob/master/Redesign%202.png)
 
+I used a bar chart to redesign the data visualization. Here are the changes I made:
+* Only use four colors for the scale. No need to have colors for the scale between (-992) - (-192). But I use colors to make difference between (-200)-(-100) and (-100)-0, which is in a higher granularity to show the difference.
+* I use bar chart instead of table to show the number difference in quatity.
+* I use pink to highlight New York Area, making it more obvious to see it is the only one growing.
+* I use a hover feature to show the change trend during the last week so that the audience can easily compare before and after.
+
 ## Testing and Feedback
 ## Final Solution
 ## Summary
