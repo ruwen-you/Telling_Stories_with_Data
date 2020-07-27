@@ -32,10 +32,10 @@ I like their use of the colors in this table. They use colors in two places. Fir
 * Last but not least, it’s hard to use numbers to compare the two columns - A week ago and now. We can find a more intuitive way to get the decreasing trend for each area. In summary, I will use more graphs to show the relationship of the quantity instead of numbers.
 
 ## Wireframing of the Redesign
-![Wireframing](https://github.com/ruwen-you/Telling_Stories_with_Data/blob/master/Redesign%201.png)
+<img src="Redesign 1.png">
 If the image is broken, please use this link to view https://imgur.com/phrTksm
 
-![Wireframing - Hover](https://github.com/ruwen-you/Telling_Stories_with_Data/blob/master/Redesign%202.png)
+<img src="Redesign 2.png">
 If the image is broken, please use this link to view https://imgur.com/UAwWfXX
 
 
