@@ -3,6 +3,7 @@
 ## Original Data Visualization - Where New Cases are decreasing Most (Metro Areas)
 
 <img src="Original Data Vis.png">
+If the image is broken, please try this link to view https://imgur.com/8Cfux5g
 
 Source: New York Times database of reports from state and local health agencies and hospitals
 
