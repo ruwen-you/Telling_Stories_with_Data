@@ -41,4 +41,6 @@ I used a bar chart to redesign the data visualization. Here are the changes I ma
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/3298224" data-url="https://flo.uri.sh/visualisation/3298224/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-slope" data-src="visualisation/3303188" data-url="https://flo.uri.sh/visualisation/3303188/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Summary
