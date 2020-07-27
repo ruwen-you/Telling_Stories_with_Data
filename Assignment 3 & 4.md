@@ -12,10 +12,10 @@ Original Article: [Monitoring the Coronavirus Outbreak in Metro Areas Across the
 The table shows the change of COVID-19 cases in decreasing metro areas. I chose this visualization because COVID-19 influences my life and learning a lot. There is a lot of data on website now. But I want to know what the public really want to know. Numbers? Trends? Locations? Or only the conclusion? Before I found this visualization, I always think table is much less powerful than other formats. But I actually got clear conclusion when I saw it. I learnt from this data vis first, then started to think about how to redesign it.
 
 ## Design Process
-Step 1: Understand the pros and cons of the original visualization
-Step 2: Wireframing at the lowest cost to do the redesign
-Step 3: Testing the wireframing to get feedback
-Step 4: Iteration based on the feedback
+* Step 1: Understand the pros and cons of the original visualization
+* Step 2: Wireframing at the lowest cost to do the redesign
+* Step 3: Testing the wireframing to get feedback
+* Step 4: Iteration based on the feedback
 
 ## Critique
 
@@ -33,7 +33,11 @@ I like their use of the colors in this table. They use colors in two places. Fir
 
 ## Wireframing of the Redesign
 ![Wireframing](https://github.com/ruwen-you/Telling_Stories_with_Data/blob/master/Redesign%201.png)
+If the image is broken, please use this link to view https://imgur.com/phrTksm
+
 ![Wireframing - Hover](https://github.com/ruwen-you/Telling_Stories_with_Data/blob/master/Redesign%202.png)
+If the image is broken, please use this link to view https://imgur.com/UAwWfXX
+
 
 I used a bar chart to redesign the data visualization. Here are the changes I made:
 * Only use four colors for the scale. No need to have colors for the scale between (-992) - (-192). But I use colors to make difference between (-200)-(-100) and (-100)-0, which is in a higher granularity to show the difference.
