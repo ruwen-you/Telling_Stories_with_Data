@@ -8,6 +8,10 @@ Source: New York Times database of reports from state and local health agencies 
 
 Original Article: [Monitoring the Coronavirus Outbreak in Metro Areas Across the U.S.. The New York Times.](https://www.nytimes.com/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
 
+Explanation of the data
+
+## Design Process
+
 ## Critique
 
 We are living in the pandamic now. There is so much news and data around COVID-19. I picked the recent one from The New York Times.
