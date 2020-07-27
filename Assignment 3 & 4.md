@@ -8,9 +8,13 @@ Source: New York Times database of reports from state and local health agencies 
 
 Original Article: [Monitoring the Coronavirus Outbreak in Metro Areas Across the U.S.. The New York Times.](https://www.nytimes.com/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
 
-Explanation of the data
+The table shows the change of COVID-19 cases in decreasing metro areas. I chose this visualization because COVID-19 influences my life and learning a lot. There is a lot of data on website now. But I want to know what the public really want to know. Numbers? Trends? Locations? Or only the conclusion? Before I found this visualization, I always think table is much less powerful than other formats. But I actually got clear conclusion when I saw it. I learnt from this data vis first, then started to think about how to redesign it.
 
 ## Design Process
+Step 1: Understand the pros and cons of the original visualization
+Step 2: Wireframing at the lowest cost to do the redesign
+Step 3: Testing the wireframing to get feedback
+Step 4: Iteration based on the feedback
 
 ## Critique
 
@@ -37,10 +41,23 @@ I used a bar chart to redesign the data visualization. Here are the changes I ma
 * I use a hover feature to show the change trend during the last week so that the audience can easily compare before and after.
 
 ## Testing and Feedback
+I did testing with 2 students and got the following feedback:
+* It's wierd to see all of the bars are under the axis, which is different from the common bar charts.
+* Bars already show the quantity difference, colors may be extraneous for delivering the information.
+* The pink bar of New York City area is too small, hard to find it.
+* The header is decrease. Decrease -100 means increase, which is not what it intended to mean.
+* The hover feature with a box to show the trend is confusing. Didn't get what it means. Didn't notice there is a difference between the unit of measurement.
+
+Iteration:
+* I realized bar chart is not a good choice to show the trend. Adding a line chart to each bar chart is more confusing. So I decided to change it to line chart to mainly show the trend of the change.
+* The participants didn't care much about the specific numbers, they only want to know the comparison.
+* There is no need to use colors if I already used graphs to show the comparison.
+* No need to indicate decrease or increase. The audience will directly know it by comparing the graphs.
+
+Then I got the following solution.
+
 ## Final Solution
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/3298224" data-url="https://flo.uri.sh/visualisation/3298224/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/3303188" data-url="https://flo.uri.sh/visualisation/3303188/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-## Summary
