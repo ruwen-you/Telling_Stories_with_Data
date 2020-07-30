@@ -28,7 +28,7 @@ I tested this storyboard with three people (but not target audience).
 * Summary of the story
   * First User - This story tells me how COVID-19 influences K-12 schools and learnings. (Follow-up - What about the parts about parents?) I didn't pay attention to the last part much maybe because you didn't give me the specific suggestions. But I can see you want to provide something for parents.
   * Second User - COVID-19 brings the transition from traditional to remote learning and parents need help.
-  * Third User - 
+  * Third User - COVID-19 makes learning harder than before and how online learning can help it.
 * Target audience 
   * First User - Either parents or ed-tech companies. I think both work.
   * Second User - Parents. Because you give suggestions to parents.
@@ -63,3 +63,29 @@ I tested this storyboard with three people (but not target audience).
   * You can add more details to the last part. It's helpful if parents can know how ed-tech can help learning.
 
 ### Next Step
+* Data - I need to find some detailed data about how students learn at home during COVID-19 to show details of how COVID-19 influences learning.
+* Data - I need to find more detailed data about how ed-tech can help learning to show the benefit and persuade parents.
+* 1st Vis
+  * Change the numbers of schools and students to percentage.
+  * Change the title to "Countries closed the schools" instead of only "schools" to show the unit is country.
+* 2nd Vis
+  * It's hard to understand. Maybe change to a more simple one. I saw another research which only compares how many days you need to catch up after the remote learning. Maybe some simple data like it to show the learning loss.
+  * Find more data about how students are actually learning at home now.
+  * Add US to indicate the country. Help the audience know it's not the world data.
+  * Or if keep using this data, I need to add notes about the terms and explain which part of the data vis shows learning loss and which is learing gap.
+* 3rd Vis
+  * Delete the first pie chart.
+  * Use "vs" to compare to show parents like being involved but it's hard.
+  * Change each pie chart to Yes/No answers to each question so that the audience can understand what the rest are.
+  * Add more detailed data about how parents are dealing with students' learning at home.
+  * Show how many participants are in the survey.
+  * Show the data comes from one survey.
+* 4th Vis
+  * Add notes or change the title to show this is a conceptual vis, not real data.
+* 5th Vis
+  * Change it to line chart to indicate it's a change from tradional to online. 
+  * More detailed data about the effectiveness of online learning or ed-tech.
+  * Provide more information about what tools and platforms are available.
+* Whole Story
+  * Focus on the last part of the story more and provide more useful suggestions for parents.
+
