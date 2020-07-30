@@ -45,9 +45,9 @@ Learning data is complex and hard to display. That's why I came to the course. I
   * [Assignment 3 & 4 - Critique by Design](/Assignment 3 & 4.md)
   
 ### Final Project
-  * Project Outline
-  * Data Sources
-  * Wireframes
-  * Testing and Iteration
-  * Method to Present
-  * Final Deliverable
+  * [Project Outline](/project-outline.md)
+  * [Data Sources](/data-sources.md)
+  * [Wireframes](/wireframes.md)
+  * [Testing and Iteration](/testing-and-iteration.md)
+  * [Method to Present](/method-to-present.md)
+  * [Final Deliverable](/final-deliverable.md)
