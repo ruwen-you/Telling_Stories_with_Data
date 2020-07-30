@@ -44,4 +44,4 @@ Learning data is complex and hard to display. That's why I came to the course. I
     * [Two Questions -> Four Types](/week3-reading1.md)
   * [Assignment 3 & 4 - Critique by Design](/Assignment 3 & 4.md)
   
-### Project
+### Final Project
