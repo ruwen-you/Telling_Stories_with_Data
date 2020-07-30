@@ -6,3 +6,6 @@
   * [Testing and Iteration](/testing-and-iteration.md)
   * [Method to Present](/method-to-present.md)
   * [Final Deliverable](/final-deliverable.md)
+
+This is the wireframe to show the rough story.
+<img src="Wireframe.png">
