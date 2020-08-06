@@ -93,6 +93,7 @@ I tested this storyboard with three people (but not target audience).
 
 <div class="flourish-embed flourish-map" data-src="visualisation/3387280" data-url="https://flo.uri.sh/visualisation/3387280/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<script src="School Closures.jpg"></script>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3387922" data-url="https://flo.uri.sh/visualisation/3387922/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
