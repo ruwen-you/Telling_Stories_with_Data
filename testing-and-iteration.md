@@ -93,13 +93,15 @@ I tested this storyboard with three people (but not target audience).
 
 <div class="flourish-embed flourish-map" data-src="visualisation/3387280" data-url="https://flo.uri.sh/visualisation/3387280/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<script src="School Closures.jpg"></script>
+<script src="School Closures.png"></script>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3387922" data-url="https://flo.uri.sh/visualisation/3387922/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3388835" data-url="https://flo.uri.sh/visualisation/3388835/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3401757" data-url="https://flo.uri.sh/visualisation/3401757/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<script src="feeling.png"></script>
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/3402021" data-url="https://flo.uri.sh/visualisation/3402021/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
