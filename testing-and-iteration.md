@@ -92,21 +92,43 @@ I tested this storyboard with three people (but not target audience).
 ### Iteration
 
 #### Iteration of the Outline
+Based on the feedback that I need to target more on parents and share more information they don't know, I changed the outline to:
+1. Worldwide school closures -> Remote Learning Frogleap
+2. How will remote learning influence their kids' learning?
+3. How do the students feel now?
+4. What are the parents doing for their children now?
+5. What can help the parents?
 
 #### Iteration of the Data Visualizations
 
+* Change the title to "Most Countries Around The World Are Closing The Schools Or Opening With Limitations".
+
 <div class="flourish-embed flourish-map" data-src="visualisation/3387280" data-url="https://flo.uri.sh/visualisation/3387280/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<img src="School Closures.png"></script>
+* Change to percentage
+
+<img src="School Closures.png">
+
+* A more simple line chart to only show how many months of learning less (easier to understand the data meaning)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3387922" data-url="https://flo.uri.sh/visualisation/3387922/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+* Add a chart to show the achievement gap caused by COVID-19
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/3388835" data-url="https://flo.uri.sh/visualisation/3388835/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+* Add one part - how students feel about remote learning and where they need help
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3401757" data-url="https://flo.uri.sh/visualisation/3401757/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+* Add color for comparison
+
 <img src="feeling.png">
 
+* Add one line chart to show the perception differences - What do children need from their parents?
+
 <div class="flourish-embed flourish-slope" data-src="visualisation/3402021" data-url="https://flo.uri.sh/visualisation/3402021/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+* Add a tree map to show the suggestion - types of ed-tech they can use
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3402216" data-url="https://flo.uri.sh/visualisation/3402216/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
