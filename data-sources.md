@@ -8,16 +8,15 @@
   * [Final Deliverable](/final-deliverable.md)
 
 Here is the data for my project
-* 1st Vis - Most Schools Around The World Are Closed Or Limited Open Due to COVID-19
+* Most Schools Around The World Are Closed Or Limited Open Due to COVID-19
   * Source: [EduAnalytics (EduAnalytics@worldbank.org); Enrollment data from UIS as of March 17th 2020 downloaded from the World Bank API](https://www.worldbank.org/en/data/interactive/2020/03/24/world-bank-education-and-covid-19). 
-  * Use: Show the school closure policy of the countries around the world during COVID-19.
-* 2nd Vis - COVID-19 is Causing Learning Loss and Learning Gap
-  * Source: [Projecting the potential impacts of COVID-19
-school closures on academic achievement](https://edworkingpapers.com/sites/default/files/ai20-226-v2.pdf) - appendix Table 6
-  * Use: Show the learning loss and the learning gap caused by the COVID-19
-* 3rd Vis - You Are Not Alone - How Parents Are Dealing with Remote Learning at Home
+* Learning Loss Will Probably Be Greater For Low-income, Black, And Hispanic Students
+  * Source: [McKinsey & Company - Achievement gap and coronavirus](https://www.baidu.com/link?url=PqrEhOTHpJdXNHGO3QXBnb7dT-S3ttgGRUJnqvMzpFabCK0QKz5Qwj5wtbu-fMrNzrqoXl_gj_a7RnkQGeB5amBRjRTnvcS6-2TRKC5c4Bxneio6XSEDGD2fSVAlWC091GMLHsKkZDcuH3ZrBQH36iM48yNkNkuUicjYP0z3OCIksxNG1YWk90OpcNFCxWRVtWqXn7mcsUgrgVp9ZUVKD_&wd=&eqid=d6eee3f10000e6c6000000055f2ca1fe)
+* You Are Not Alone - How Parents Are Dealing with Remote Learning at Home
   * Source: [The Pearson and Connections Academy Parent Pulse Report: May 2020](https://www.pearson.com/content/dam/global-store/global/resources/Pearson_Parent_Pulse_Survey.pdf).
-  * Use: Show how parents are dealing with the remote learining situation during COVID-19.
-* 5th Vis - Online Learning Works
-  * Source: [Facts and Stats That Reveal The Power Of eLearning](https://www.shiftelearning.com/blog/bid/301248/15-facts-and-stats-that-reveal-the-power-of-elearning)
-  * Use: Bar chart to the efficiency of online learning compared to the traditional learning.
+* Schools And Teachers Have Tried Their Best, But Your Children Are Not Satisfied With Remote Learning
+  * Source: [University of Wisconsin - Distance-Learning in the time of COVID-19](https://milwaukee.ca1.qualtrics.com/reports/RC/public/bWlsd2F1a2VlLTVlYzY3Y2U3MGExYmViMDAwZThlYjg0MS1VUl9iS0Y4ZTlzTm9yN0NnUWQ=)
+* The Perceived Differences In Parents' Involvement Between Students And Parents
+  * Source: ERIK W. BLACK. AN EVALUATION OF FAMILIAL INVOLVEMENTS’ INFLUENCE ON STUDENT ACHIEVEMENT IN K-12 VIRTUAL SCHOOLING.(http://etd.fcla.edu/UF/UFE0024208/black_e.pdf)
+* Educational Technology Tree Map
+  * Source: [The EdSurge Product Index](https://www.edsurge.com/product-reviews)
