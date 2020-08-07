@@ -7,4 +7,4 @@
   * Method to Present (You are here)
   * [Final Deliverable](/final-deliverable.md)
 
-I plan to complete the final “story” for my project using Shorthand. I also expect to use some visuals that show supplementary information that may not need to be presented as a chart. I will probably build some charts using Tableau. I intend to build as many as I can with Tableau.
+I plan to complete the final “story” for my project using Shorthand. I also expect to use some visuals that show supplementary information that may not need to be presented as a chart. I will probably build some charts using Flourish and Infogram.
