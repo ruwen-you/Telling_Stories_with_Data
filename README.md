@@ -52,4 +52,4 @@ Learning data is complex and hard to display. That's why I came to the course. I
   * [Testing and Iteration](/testing-and-iteration.md)
   * [Method to Present](/method-to-present.md)
   * [Final Deliverable](/final-deliverable.md)
-  * [Summary and Reflection](/Summary and Reflection.md)
+  * [Summary and Reflection](/summary-and-reflection.md)
